@@ -1,3 +1,0 @@
-\contentsline {section}{\numberline {1}classical lie groups}{1}{section.1}%
-\contentsline {section}{\numberline {2}the lie algebra of a lie group}{3}{section.2}%
-\contentsline {section}{\numberline {3}the exponential map}{5}{section.3}%
